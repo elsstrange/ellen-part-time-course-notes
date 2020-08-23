@@ -58,4 +58,4 @@ result == expected
 1. Return to step 2 and write your next test
 
 
-## Continue to isolating-tests.md
+### [Continue to Isolating Tests](https://github.com/elsstrange/ellen-part-time-course-notes/blob/master/isolating-tests.md)
